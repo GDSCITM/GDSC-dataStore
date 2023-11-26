@@ -1,42 +1,38 @@
 [
   {
-    "name": "Saurabh Soni",
+    "name": "Shradha Gurjar",
     "role": "GDSC Lead",
-    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/saurabh.png",
+    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/shraddha.png",
     "github": "https://github.com/",
-    "linkedin": "https://www.linkedin.com/",
+    "linkedin": "https://www.linkedin.com/in/shradha-gurjar-976b05247/",
     "twitter": "https://twitter.com/"
   },
   {
-    "name": "Yash Sharma",
+    "name": "Sanskar Chaturvedi",
     "role": "Tech Lead",
-    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/yash.png",
+    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/sanskar.png",
     "github": "https://github.com/",
-    "linkedin": "https://www.linkedin.com/",
+    "linkedin": "https://www.linkedin.com/in/sanskar-chaturvedi-898873223/",
     "twitter": "https://twitter.com/"
-  },
-  {
-    "name": "Sudhanshu Dasgupta",
-    "role": "Social meadia and marketing Lead",
-    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/sudhanshu_dasgupta.png",
-    "github": "https://github.com/",
-    "linkedin": "https://www.linkedin.com/",
-    "twitter": "https://twitter.com/"
-  },
-  {
-    "name": "Himanshu Rai",
-    "role": "Mangement Lead",
-    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/himanshu_rai.png",
-    "github": "https://github.com/",
-    "linkedin": "https://www.linkedin.com/",
-    "twitter": "https://twitter.com/"
-  },
-  {
-    "name": "Arun Patel",
-    "role": "Web Lead",
-    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/arun.png",
-    "github": "https://github.com/ArunPatel02",
-    "linkedin": "https://www.linkedin.com/in/arun-patel-542924219/",
-    "twitter": ""
   }
+  ,
+  {
+    "name": "Siddhant Khare ",
+    "role": "Public Relation Lead",
+    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/siddhant.png",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com/in/siddhant-khare-73b9a1208/",
+    "twitter": "https://twitter.com/"
+  }
+  ,
+  {
+    "name": "Yash Pathak",
+    "role": "Google Cloud Facilitator",
+    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/yash.png",
+    "github": "https://github.com/yash9111",
+    "linkedin": "https://www.linkedin.com/in/yash-pathak-a53ba7226/",
+    "twitter": "https://twitter.com/"
+  }
+ 
+
 ]
