@@ -8,31 +8,41 @@
     "twitter": "https://twitter.com/"
   },
   {
-    "name": "Sanskar Chaturvedi",
-    "role": "Tech Lead",
-    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/sanskar.png",
-    "github": "https://github.com/",
-    "linkedin": "https://www.linkedin.com/in/sanskar-chaturvedi-898873223/",
-    "twitter": "https://twitter.com/"
-  }
-  ,
-  {
-    "name": "Siddhant Khare ",
-    "role": "Public Relation Lead",
-    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/siddhant.png",
-    "github": "https://github.com/",
-    "linkedin": "https://www.linkedin.com/in/siddhant-khare-73b9a1208/",
-    "twitter": "https://twitter.com/"
-  }
-  ,
-  {
     "name": "Yash Pathak",
-    "role": "Google Cloud Facilitator",
+    "role": "Tech Lead",
     "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/yash.png",
     "github": "https://github.com/yash9111",
     "linkedin": "https://www.linkedin.com/in/yash-pathak-a53ba7226/",
     "twitter": "https://twitter.com/"
   }
+  ,
+  {
+    "name": "Surbhi Tiwari",
+    "role": "Public Relation Lead",
+    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/surbhi_tiwari.png",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "twitter": "https://twitter.com/"
+  },
+  {
+    "name": "Aazam Khan",
+    "role": "Social Lead",
+    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/aazam_khan.png",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "twitter": "https://twitter.com/"
+  },
+  
+  {
+    "name": "Shreshtha kinger",
+    "role": "Management Lead",
+    "avatar": "https://raw.githubusercontent.com/GDSCITM/GDSC-dataStore/main/Teams/images/shreshtha_kinger.png",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "twitter": "https://twitter.com/"
+  }
+  
+
  
 
 ]
